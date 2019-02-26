@@ -1,0 +1,16 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "53eaa18d-e554-4714-8a29-91fdfa138598"
+	},
+	"author": "Jed Helmers"
+}
